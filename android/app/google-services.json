@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22856910657",
+    "project_id": "kitapkayitapp-9e72d",
+    "storage_bucket": "kitapkayitapp-9e72d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22856910657:android:1b44e7aa5315a8782fc3c0",
+        "android_client_info": {
+          "package_name": "com.example.firebaseappdeneme2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdc4F7lUppDHBCo5pH_VRTuump7dF3AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22856910657:android:48b20ab534ab054c2fc3c0",
+        "android_client_info": {
+          "package_name": "com.example.kitapkayit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdc4F7lUppDHBCo5pH_VRTuump7dF3AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
